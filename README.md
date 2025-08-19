@@ -55,7 +55,7 @@ Here are some of the technologies I've been working with recently:
 
 Feel free to connect! I'm always open to talking about new projects, research opportunities, or the latest in tech.
 
-- **LinkedIn:** [linkedain.com/in/chanakya-thirumala-setty](https://www.linkedin.com/in/chanakya-thirumala-setty/)
+- **LinkedIn:** [linkedin.com/in/chanakya-thirumala-setty](https://www.linkedin.com/in/chanakya-thirumala-setty/)
 - **Email:** [cthirumalasetty@crimson.ua.edu](mailto:cthirumalasetty@crimson.ua.edu)
 
 <p align="center">
