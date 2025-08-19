@@ -46,8 +46,8 @@ Here are some of the technologies I've been working with recently:
 ### 📊 My GitHub Stats
 
 <!-- Change `cthirumalasetty` to your GitHub username -->
-![Chanakya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cthirumalasetty&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cthirumalasetty&layout=compact&theme=radical&hide_border=true)
+![Chanakya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanakya-ts&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanakya-ts&layout=compact&theme=radical&hide_border=true)
 
 ---
 
